@@ -1,0 +1,34 @@
+_repo: Maxims-and-Hints-on-Angling-Chess-Shooting-and-Other-Mattersalso-Miseries-of-Fishing_36821
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Penn, Richard
+    birthdate: 1784
+    deathdate: 1863
+    gutenberg_agent_id: '38489'
+    url: http://www.gutenberg.org/2009/agents/38489
+description: ''
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36821'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fishing'
+- !lcc 'GV'
+- !lcc 'SK'
+- !lcsh 'Maxims'
+- !lcc 'SH'
+- !lcsh 'Chess'
+- !lcsh 'Shooting'
+tableOfContents: Maxims and hints for an angler -- Miseries of fishing -- Maxims and
+  hints for a chess player -- Maxims and hints on shooting and other matters.
+title: "Maxims and Hints on Angling, Chess, Shooting, and Other Matters\r\nAlso, Miseries\
+  \ of Fishing"
+url: http://www.gutenberg.org/ebooks/36821
